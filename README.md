@@ -1,4 +1,4 @@
-### Hi, I'm Duc Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - aka Owner [JzonTech][website] = Website Developer + Security Researcher 🌱 
+### Hi, I'm Duc Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> - aka Owner [JzonTech][website] = Website Developer + Security Researcher 🌱 
 
 
 - 🔭 I'm passionate about Data Science (DS), Build Website for Make Money Online (MMO), Programing fun tools.
