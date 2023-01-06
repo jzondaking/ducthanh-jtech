@@ -1,4 +1,4 @@
-### Hi, I'm Duc Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> - aka Owner [JzonTech][website] = Website Developer + Security Researcher 🌱 
+### Hi, I'm Duc Thanh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> - aka Jzon Da King = FullStack Developer + Security Researcher 🌱 
 
 
 - 🔭 I'm passionate about Data Science (DS), Build Website for Make Money Online (MMO), Programing fun tools.
@@ -32,19 +32,10 @@
 <br />
 <br />
 
----
-
-### ☕ Buy for me a coffee
-
-- [Momo Wallet: 0966142061 (PHAM DUC THANH)](https://nhantien.momo.vn/0966142061)
-- [MB Bank: 5587733666 (PHAM DUC THANH)](#)
-
 
 ---
 
 ### 📫 Contact me via:
 
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/ducthanhit)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/jzondaking)
 [![Zalo](https://img.shields.io/badge/Zalo-0077B5?style=for-the-badge&logo=zalo&color=0068ff&logoColor=white)](https://www.zalo.me/0966142061)
-
-[website]: https://www.jzontech.asia
